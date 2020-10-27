@@ -314,3 +314,31 @@ typescript.identifier.function {
 html.tag.attribute.link {
   color: #59be84;
 }
+
+/* Vue */
+
+vue.html.tag.open,
+vue.html.tag.close {
+  color: #59be84;
+}
+
+vue.html.tag.name {
+  color: #59be84;
+}
+
+vue.html.tag.attribute.shorthand-key {
+  color: #a9dc76;
+}
+
+vue.html.tag.attribute.name,
+vue.html.embedded.interpolation.bracket {
+  color: #59be84;
+}
+
+vue.html.tag.attribute.argument {
+  color: #a9dc76;
+}
+
+vue.html.tag.attribute.modifier {
+  color: #a9dc76;
+}
