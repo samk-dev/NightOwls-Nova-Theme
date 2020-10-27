@@ -1,6 +1,18 @@
 **NightOwls** provides a cool dark theme for night owl devs :)
 
-![](https://nova.app/images/en/dark/editor.png)
+#### Theme Preview
+
+![](images/NightOwls-preview.png)
+
+### Instructions
+
+- Go to **Extensions > Extensions Library > Themes (tab)**
+
+  or, just clone this project (or download it from the releases page), it'll magically turn into a 'component' thing, and you can then double-click it to add this theme to Nova!
+
+- Go to **Nova > Preferences > Theme** and select the theme.
+
+**NightOwls is on [GitHub](https://github.com/samk-dev/NightOwls)**
 
 ### Disclaimer
 
