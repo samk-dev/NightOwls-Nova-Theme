@@ -2,7 +2,7 @@
 
 #### Theme Preview
 
-![](images/NightOwls-preview.png)
+![](https://github.com/samk-dev/NightOwls/blob/master/Images/NightOwls-preview.png?raw=true)
 
 ### Instructions
 
