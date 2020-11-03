@@ -1,3 +1,7 @@
+## version 1.3
+
+- Added Black variation
+
 ## version 1.2
 
 - Added Blue and Purple variations
