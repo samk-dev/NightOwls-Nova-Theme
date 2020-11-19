@@ -16,6 +16,4 @@
 
 ### Disclaimer
 
-NightOwls is inspired on _Monokai Pro_ by [Monokai](https://monokai.pro).
-
-[Nova](https://panic.com/nova) is a editor made by [Panic Inc](https://panic.com).
+NightOwls is inspired on _Monokai Pro_ by [Monokai](https://monokai.pro)

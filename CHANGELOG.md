@@ -1,3 +1,7 @@
+## version 1.4
+
+- Added Black Muted variation
+
 ## version 1.3
 
 - Added Black variation
